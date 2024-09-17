@@ -1,0 +1,165 @@
+.history/
+api_key.py
+__pycache__/
+./src/__pycache__/
+
+textdata/edu_theory_db/
+textdata/psy_theory_db/
+textdata/record_db/
+textdata/novel_db/
+
+textdata/psycho/text/5.儿童发展心理学-刘金花.txt
+textdata/psycho/text/6.儿童教育心理学-阿德勒.txt
+textdata/psycho/text/7.儿童情绪心理学-李群锋.txt
+textdata/psycho/text/8.儿童心理学-乌莎·戈斯瓦米.txt
+textdata/psycho/text/9.孩子的品格-彭凯平.txt
+textdata/psycho/text/10.孩子教养七部曲.txt
+textdata/psycho/text/11.孩子如何思考.txt
+textdata/psycho/text/13.情感学习-儿童文学如何教我们感受情绪.txt
+textdata/psycho/text/18.写给父母的未来之书-郝景芳.txt
+textdata/psycho/text/19.心理抚养-李玫瑾.txt
+textdata/psycho/text/22.幽微的人性-李玫瑾.txt
+textdata/teacher/record/text/0_01【整本书阅读教学课例】《一百条裙子》导读课 周老师.txt
+textdata/teacher/record/text/1_01示范课：《青蛙和蟾蜍》 .txt
+textdata/teacher/record/text/2_02【整本书阅读教学课例】《中国古代寓言推荐课》马娜.txt
+textdata/teacher/record/text/3_02示范课：《中国古代寓言》 .txt
+textdata/teacher/record/text/3_shuokegao.txt
+textdata/teacher/record/text/4_03【整本书阅读教学课例】《中国古代寓言故事》程凡.txt
+textdata/teacher/record/text/5_03示范课：《阿吉的许愿鼓》.txt
+textdata/teacher/record/text/6_04【整本书阅读教学课例】《中国民间故事》推进课 祁辉.txt
+textdata/teacher/record/text/7_04示范课：《安徒生童话》.txt
+textdata/teacher/record/text/8_05【整本书阅读教学课例】《中国民间故事》跟进课 郭雪琴.txt
+textdata/teacher/record/text/9_05示范课：《格林童话》.txt
+textdata/teacher/record/text/10_06【整本书阅读教学课例】《从景阳冈到水浒传》 李老师.txt
+textdata/teacher/record/text/11_06示范课：《夏洛的网》 .txt
+textdata/teacher/record/text/13_08【整本书阅读教学课例】《十万个为什么》付老师.txt
+textdata/teacher/record/text/12_07示范课：《草房子》 .txt
+textdata/teacher/record/text/14_08示范课：《中国古代神话》 .txt
+textdata/teacher/record/text/15_09【整本书阅读教学课例】《十万个为什么》王老师.txt
+textdata/teacher/record/text/17_10【整本书阅读教学课例】《向着明亮那方》郭老师.txt
+textdata/teacher/record/text/19_11【整本书阅读教学课例】《呼兰河传》亢丽.txt
+textdata/teacher/record/text/18_10示范课：《十万个为什么》 .txt
+textdata/teacher/record/text/20_11示范课：《好心眼儿巨人》 .txt
+textdata/teacher/record/text/21_12【整本书阅读教学课例】《夏洛的网》整本书导读 陈炜.txt
+textdata/teacher/record/text/22_12示范课：《一直想飞的猫》.txt
+textdata/teacher/record/text/23_13【整本书阅读教学课例】《安徒生童话》导读课 郭湘辉.txt
+textdata/teacher/record/text/24_13示范课：《“隐身”的寓意》 .txt
+textdata/teacher/record/text/25_14【整本书阅读教学课例】《安徒生童话》整本书阅读交流课 蒋雅雯.txt
+textdata/teacher/record/text/26_14示范课：《记忆的瓶子》 .txt
+textdata/teacher/record/text/27_15【整本书阅读教学课例】《安徒生童话》阅读分享课 毛凯琪.txt
+textdata/teacher/record/text/29_16【整本书阅读教学课例】《小兵张嘎》整本书阅读 朱嫣.txt
+textdata/teacher/record/text/30_16示范课：《软糖666》 .txt
+textdata/teacher/record/text/31_17【整本书阅读教学课例】《小布头奇遇记》张雪艳.txt
+textdata/teacher/record/text/32_17示范课：《总也倒不了的老屋》 .txt
+textdata/teacher/record/text/33_18【整本书阅读教学课例】《小猪变形记》 顾淑婵.txt
+textdata/teacher/record/text/34_18示范课：《壶中的故事》 .txt
+textdata/teacher/record/text/35_19【整本书阅读教学课例】《小英雄雨来》整本书阅读交流课 何惠贞.txt
+textdata/teacher/record/text/36_19示范课：《了不起的狐狸爸爸》.txt
+textdata/teacher/record/text/37_2022.02.13山东：整本书阅读教学课型研究 公开课示范课《西游记》 听评课整本书阅读教学策略与 - (Av852740920,P1).mp3-文稿-转写结果.txt
+textdata/teacher/theory/text/2.班主任工作漫谈-魏书生.txt
+textdata/teacher/theory/text/3.初中语文阅读课的教与学-苏红香.txt
+textdata/teacher/theory/text/4.大师教语文合集.txt
+textdata/teacher/theory/text/13.情感学习-儿童文学如何教我们感受情绪.txt
+textdata/teacher/theory/text/14.如是我读-陈日亮.txt
+textdata/teacher/theory/text/15.我用阅读教育孩子-周璐.txt
+textdata/teacher/theory/text/16.小说教学教什么-王荣生.txt
+textdata/teacher/theory/text/20.学会读书-叶圣陶.txt
+textdata/teacher/theory/text/21.叶圣陶教你学语文.txt
+textdata/teacher/theory/text/23.语文阅读与课文学习方法.txt
+textdata/teacher/theory/text/24.中学语文教学法-朱绍禹.txt
+textdata/teacher/theory/text/25.中学语文名师教学艺术-雷玲.txt
+textdata/teacher/theory/text/26.重新认识学习-戴维森.txt
+textdata/teacher/theory/text/27.阅读教学设计的要诀.txt
+textdata/teacher/theory/text/96_小学语文整本书阅读教学策略（一） - (Av809285896,P1).mp3-文稿-转写结果.txt
+textdata/teacher/theory/text/97_小学语文整本书阅读教学策略（二） - (Av509372279,P1).mp3-文稿-转写结果.txt
+textdata/teacher/theory/text/101_整本书阅读学习任务群关键问题解析及案例研讨 - (Av353632764,P1).mp3-文稿-转写结果.txt
+textdata/teacher/theory/text/刍议小学整本书课外阅读指导策略———以《鲁滨逊漂流记》阅读指导为例.txt
+textdata/teacher/theory/text/1.班级管理案例.txt
+textdata/teacher/theory/text/《鲁滨逊漂流记》整本书阅读教学研究.txt
+textdata/teacher/theory/text/韩军语文课堂提问艺术研宄——以韩军十一篇课堂实录为例.txt
+textdata/teacher/record/text/多维阅读，品悟经典——《鲁宾逊漂流记》阅读交流课课堂实录.txt
+textdata/teacher/theory/text/诗意语文课谱：王崧舟十年经典课堂实录与品悟.txt
+textdata/teacher/theory/text/利用疑问策略推进整本书阅读——以《鲁滨逊漂流记》为例.txt
+textdata/teacher/theory/text/小学优秀语文教师阅读教学行为的日常呈现.txt
+textdata/teacher/record/text/113_鲁宾逊漂流记教学实录精选13篇.txt
+textdata/teacher/record/text/112_部编小学语文六年级下册《鲁滨逊漂流记》 优质课公开课教学设计课件教案课堂实录视频 - (Av596881791,P1).mp3-文稿-转写结果.txt
+textdata/teacher/record/text/111_语文整本书阅读策略教研2 - 1.2(Av725880433,P1).mp3-文稿-转写结果.txt
+textdata/teacher/record/text/109_语文整本书阅读策略教研1 - 1.1(Av298417158,P1).mp3-文稿-转写结果.txt
+textdata/teacher/record/text/114_鲁滨逊漂流记阅读指导-公开课 - (Av509337199,P1).mp3-文稿-转写结果.txt
+textdata/teacher/theory/text/以学习游戏推进整本书阅读.txt
+textdata/teacher/theory/text/一人，一岛，28年，何以可能？——《鲁滨逊漂流记》”整本书阅读“教学课例.txt
+textdata/teacher/record/text/110_语文整本书阅读策略教研1 - 1.1(Av638745617,P1).mp3-文稿-转写结果.txt
+textdata/teacher/record/text/107_第二单元 鲁滨逊漂流记（二）（下）.txt
+textdata/teacher/record/text/106_第二单元 鲁滨逊漂流记（二）（上）.txt
+textdata/teacher/record/text/105_第二单元 鲁滨逊漂流记（一）（下）.txt
+textdata/teacher/record/text/104_第二单元 鲁滨逊漂流记（一）（上）.txt
+textdata/teacher/record/text/103_特级教师吴琳  六年级公开课《鲁滨逊漂流记》（教你怎么上整本书阅读导读课） - (Av517283510,P1).mp3-文稿-转写结果.txt
+textdata/teacher/record/text/95_小学语文六年级下册《鲁滨逊漂流记》优质公开课视频教学设计课件PPT课堂实录名师公开课试讲说课面试微课 - (Av461019859,P1).mp3-文稿-转写结果.txt
+textdata/teacher/record/text/94_小学语文六下课程27《鲁滨逊漂流记》整本书阅读课-今日头条.txt
+textdata/teacher/record/text/93_六下：《鲁滨逊漂流记》（含课件教案） 名师优质公开课 教学实录 小学语文 部编版 人教版语文 六年级 - (Av434256411,P1).mp3-文稿-转写结果.txt
+textdata/teacher/record/text/92_六下：《鲁滨逊漂流记》读前指导（含课件教案） 名师优质公开课 教学实录 小学语文 部编版 人教版语文 - (Av648926357,P1).mp3-文稿-转写结果.txt
+textdata/teacher/record/text/91_六下：《鲁滨逊漂流记》导读课（锦园  佘丹婷） - (Av681643082,P1).mp3-文稿-转写结果.txt
+textdata/teacher/record/text/88_中小学教研活动公开课-语文阅读策略单元（2） - (Av508901725,P1).mp3-文稿-转写结果.txt
+textdata/teacher/record/text/89_中小学教研活动公开课-语文阅读策略单元（3） - (Av551431026,P1).mp3-文稿-转写结果.txt
+textdata/teacher/record/text/86_【空中课堂】六年级《鲁滨逊漂流记》 - 2.第2节(Av93197980,P2).mp3-文稿-转写结果.txt
+textdata/teacher/record/text/85_【空中课堂】六年级《鲁滨逊漂流记》 - 1.第1节(Av93197980,P1).mp3-文稿-转写结果.txt
+textdata/teacher/record/text/87_中小学教研活动公开课-语文阅读策略单元（1） - (Av851376409,P1).mp3-文稿-转写结果.txt
+textdata/teacher/record/text/84_【微课堂】人教版语文六年级下册16、鲁滨孙漂流记（教学视频）.mp3-文稿-转写结果.txt
+textdata/teacher/record/text/83_【公开课】《鲁滨逊漂流记（节选）》沈芳-部编人教版六年级语文下册-YW06B-018 - (Av68441943,P1).mp3-文稿-转写结果.txt
+textdata/teacher/record/text/81_《鲁滨逊漂流记》第二课时 示范课 精品微课 部编本 六年级语文 - (Av947691788,P1).mp3-文稿-转写结果.txt
+textdata/teacher/record/text/80_《鲁滨逊漂流记》第一课时 示范课 精品微课 部编本 六年级语文 - (Av650155668,P1).mp3-文稿-转写结果.txt
+textdata/teacher/record/text/77_54【整本书阅读教学课例】《鲁滨逊漂流记》整本书读前指导 彭靖.txt
+textdata/teacher/record/text/78_55【整本书阅读教学课例】走进《童年河》戴文源.txt
+textdata/teacher/record/text/76_53【整本书阅读教学课例】《鲁滨逊漂流记》 马喜燕.txt
+textdata/teacher/record/text/82_《鲁滨逊漂流记》说课评析+整本书阅读策略教学研究 - (Av466808760,P1).mp3-文稿-转写结果.txt
+textdata/teacher/record/text/90_六下5《鲁滨逊漂流记》吴瑞 全国赛课一等奖(配套课件教案) - (Av691685224,P1).mp3-文稿-转写结果.txt
+textdata/teacher/record/text/79_88统编小学语文六下第二单元《鲁滨逊漂流记》优质课公开课教学视频+课件+教案 - (Av772847776,P1).mp3-文稿-转写结果.txt
+textdata/teacher/record/text/98_张伟《将相和》 全国小学语文名师经典课堂实录_标清(1)上.txt
+textdata/teacher/record/text/72_49【整本书阅读教学课例】《逃家小兔》绘本阅读课 魏珍.txt
+textdata/teacher/record/text/73_50【整本书阅读教学课例】《青草国的鹅》卢嘉琪.txt
+textdata/teacher/record/text/71_48【整本书阅读教学课例】《西游记》阅读交流课 李丹萍.txt
+textdata/teacher/record/text/69_46【整本书阅读教学课例】《西游记》新书推荐课  徐文婷.txt
+textdata/teacher/record/text/67_44【整本书阅读教学课例】《西游记》整本书阅读交流课 李丹萍.txt
+textdata/teacher/record/text/65_42【整本书阅读教学课例】《草房子》 史斌辉.txt
+textdata/teacher/record/text/64_41【整本书阅读教学课例】《脚下的精灵在说话》 李维勇.txt
+textdata/teacher/record/text/63_40【整本书阅读教学课例】《细米》阅读指导  胡心怡.txt
+textdata/teacher/record/text/62_38【整本书阅读教学课例】《红岩》阅读推荐课 张晖.txt
+textdata/teacher/record/text/61_37【整本书阅读教学课例】《童年》整本书阅读课 高碧玉.txt
+textdata/teacher/record/text/59_35【整本书阅读教学课例】《神秘的公寓》 李老师.txt
+textdata/teacher/record/text/60_36【整本书阅读教学课例】《童年》整本书阅读 俞明珠.txt
+textdata/teacher/record/text/66_43【整本书阅读教学课例】《草房子》方盛东.txt
+textdata/teacher/record/text/57_33【整本书阅读教学课例】《神奇小孩在哪里1：古怪的牛尔小学》施盛佳.txt
+textdata/teacher/record/text/56_31【整本书阅读教学课例】《田螺姑娘》阅读跟进课 方艺敏.txt
+textdata/teacher/record/text/68_45【整本书阅读教学课例】《西游记》整本书阅读推荐课 刘丁.txt
+textdata/teacher/record/text/58_34【整本书阅读教学课例】《神奇的收费亭》 崔老师.txt
+textdata/teacher/record/text/53_28【整本书阅读教学课例】《汤姆索亚历险记》 周老师.txt
+textdata/teacher/record/text/54_29【整本书阅读教学课例】《洋葱头历险记》整本书阅读指导 路凤霞.txt
+textdata/teacher/record/text/52_27示范课：整书阅读推进课《绿野仙踪》.txt
+textdata/teacher/record/text/50_26示范课：整书阅读交流课《绿野仙踪》.txt
+textdata/teacher/record/text/51_27【整本书阅读教学课例】《水浒》整本书阅读教学 曹雪萍.txt
+textdata/teacher/record/text/49_26【整本书阅读教学课例】《朱子家训》整本书导读 叶静云.txt
+textdata/teacher/record/text/48_25示范课：整书阅读导读课《绿野仙踪》 .txt
+textdata/teacher/record/text/47_25【整本书阅读教学课例】《木偶奇遇记》读书推进课  姚磊.txt
+textdata/teacher/record/text/45_24【整本书阅读教学课例】《时代广场的蟋蟀》王文丽.txt
+textdata/teacher/record/text/44_23示范课：《鼹鼠的月亮河》 .txt
+textdata/teacher/record/text/43_23【整本书阅读教学课例】《捣蛋鬼》陈海燕.txt
+textdata/teacher/record/text/41_22【整本书阅读教学课例】《战马》 张老师.txt
+textdata/teacher/record/text/42_22示范课：《世说新语》 .txt
+textdata/teacher/record/text/46_24示范课：《做个机器人假装是我》 .txt
+textdata/teacher/record/text/40_21示范课：《史记》.txt
+textdata/teacher/record/text/99_张伟《将相和》 全国小学语文名师经典课堂实录_标清(1)下.txt
+textdata/teacher/theory/text/整本书阅读：读经典、学思辨、练读写——《鲁滨逊漂流记》“思辨读写”实践.txt
+textdata/teacher/theory/text/运用提问策略，提升整本书阅读能力.txt
+textdata/teacher/theory/text/语文课堂教学技能训练教程.txt
+textdata/teacher/record/text/108_统编语文教科书六年级下册“快乐读书吧”——《鲁滨逊漂流记》课前导读课.txt
+textdata/teacher/record/text/102_武凤霞--《鲁滨逊漂流记》备课指导_六年级下册 - (Av971970922,P1).mp3-文稿-转写结果.txt
+textdata/teacher/record/text/100_张伟《将相和》 全国小学语文名师经典课堂实录_标清(1)中.txt
+textdata/teacher/record/text/74_51【整本书阅读教学课例】《青鸟》阅读导读 杨琼洁.txt
+textdata/teacher/record/text/70_47【整本书阅读教学课例】《西游记》阅读交流课 方芳.txt
+textdata/teacher/record/text/55_30【整本书阅读教学课例】《爷爷的老房子》 陈老师.txt
+textdata/teacher/record/text/39_20示范课：《盘古开天地》 .txt
+textdata/teacher/record/text/38_20【整本书阅读教学课例】《我家是动物园》 陈苏丹.txt
+textdata/teacher/record/text/28_15示范课：《奇妙的种子》 .txt
+textdata/teacher/record/text/16_09示范课：《西游记》.txt
+textdata/teacher/record/text/75_52【整本书阅读教学课例】《鲁滨逊漂流记》 杨杰.txt
+textdata/vec_db/chroma.sqlite3
